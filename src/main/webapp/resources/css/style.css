@@ -1,0 +1,37 @@
+.navbar{
+    text-transform: uppercase;
+    padding: 40px 0 32px;
+}
+
+.navbar .navbar-brand{
+    width: 110px;
+    height: 40px;
+    margin-top: 3px;
+    margin-right: 60px;
+    background-image: url(//cdnsite.scup.com/assets/img/scup-logo-orange.svg?v=201611291543);
+    background-size: 110px 40px;
+    text-indent: -999px;
+}
+
+.navbar h2{
+    color: #ffffff;
+    text-align: center;
+}
+
+.navbar:after {
+    content: " ";
+    position: absolute;
+    background: url(//cdnsite.scup.com/assets/img/header-line.png?v=201611291543) right bottom no-repeat #ff6e00;
+    background-size: 30% 100%;
+    display: block;
+    height: 3px;
+    width: 100%;
+    border: 0;
+    bottom: 0;
+}
+
+.btn-primary{
+    border-color: #EC7F3E;
+    background-color: #EC7F3E;
+    color: #FFF;
+}

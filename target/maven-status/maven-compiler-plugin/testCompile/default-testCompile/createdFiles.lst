@@ -1,0 +1,6 @@
+com/scuptel/falemais/service/CityCodeServiceTest.class
+com/scuptel/falemais/service/CallTaxServiceTest.class
+com/scuptel/falemais/service/PlanServiceTest.class
+com/scuptel/falemais/facade/SimulationFacadeTest.class
+com/scuptel/falemais/facade/CityCodeFacadeTest.class
+com/scuptel/falemais/facade/PlanFacadeTest.class
